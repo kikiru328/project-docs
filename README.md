@@ -1,2 +1,2 @@
 # project-docs
-project explaination for private project
+repository to explain by readme for private projects
