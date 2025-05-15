@@ -62,8 +62,7 @@
 
 
 ## Demo
-
-![443554326-5ca60994-39f6-48e0-85b2-a383f65a8f23 blur](https://github.com/user-attachments/assets/ba776ac6-5a1e-491e-a440-74c06ceebdeb)
+![image](https://github.com/user-attachments/assets/8a89ef15-dbee-4a86-bcdf-91affb3bb3b1)
 
 > ⚠️ *기관 요청으로 인한 주제는 masking 되어 있으므로 양해 부탁드립니다.*
 
