@@ -49,13 +49,10 @@
 ### 엑셀 정규화 로직
 
 - 다양한 셀 병합/헤더 위치/열 이름 차이를 정규 표현식과 rule 기반으로 자동 변환  
-- 자세한 설명: [docs/data_standardization.md](docs/data_standardization.md)
 
 ### 포맷 관리 기능
 
 - 열 순서, 열 이름, 시작 행 등을 DB에 저장
-- Flask-Admin을 통해 실시간 UI 수정 가능  
-- 자세한 설명: [docs/admin_management.md](docs/admin_management.md)
 
 
 ---
