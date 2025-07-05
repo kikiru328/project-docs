@@ -1,4 +1,4 @@
-# 갑상선암 진단 모델 평가 자동화 시스템
+# 3D 의료영상 진단 모델 성능 평가 자동화 시스템
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red.svg)](https://pytorch.org)
