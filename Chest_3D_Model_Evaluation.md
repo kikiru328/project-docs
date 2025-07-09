@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red.svg)](https://pytorch.org)
-[![SimpleITK](https://img.shields.io/badge/SimpleITK-Medical%20Imaging-green.svg)](https://simpleitk.org)
+[![PyDicom](https://img.shields.io/badge/SimpleITK-Medical%20Imaging-green.svg)](https://simpleitk.org)
 [![Multiprocessing](https://img.shields.io/badge/Multiprocessing-Parallel-orange.svg)](https://docs.python.org/3/library/multiprocessing.html)
 
 > **닥터앤서 국가과제 지원을 위한 3D 의료영상 진단 모델 성능 평가 완전 자동화 시스템**
